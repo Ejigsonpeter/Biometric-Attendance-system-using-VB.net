@@ -1,0 +1,74 @@
+C:\Users\Sky\Documents\Visual Studio 2010\Projects\SecuredAttendance\SecuredAttendance\bin\Debug\SecuredAttendance.exe
+C:\Users\Sky\Documents\Visual Studio 2010\Projects\SecuredAttendance\SecuredAttendance\bin\Debug\SecuredAttendance.pdb
+C:\Users\Sky\Documents\Visual Studio 2010\Projects\SecuredAttendance\SecuredAttendance\bin\Debug\SecuredAttendance.xml
+C:\Users\Sky\Documents\Visual Studio 2010\Projects\SecuredAttendance\SecuredAttendance\bin\Debug\Interop.GrFingerXLib.dll
+C:\Users\Sky\Documents\Visual Studio 2010\Projects\SecuredAttendance\SecuredAttendance\bin\Debug\AxInterop.GrFingerXLib.dll
+C:\Users\Sky\Documents\Visual Studio 2010\Projects\SecuredAttendance\SecuredAttendance\obj\x86\Debug\Interop.GrFingerXLib.dll
+C:\Users\Sky\Documents\Visual Studio 2010\Projects\SecuredAttendance\SecuredAttendance\obj\x86\Debug\AxInterop.GrFingerXLib.dll
+C:\Users\Sky\Documents\Visual Studio 2010\Projects\SecuredAttendance\SecuredAttendance\obj\x86\Debug\SecuredAttendance.vbproj.ResolveComReference.cache
+C:\Users\Sky\Documents\Visual Studio 2010\Projects\SecuredAttendance\SecuredAttendance\obj\x86\Debug\SecuredAttendance.Form1.resources
+C:\Users\Sky\Documents\Visual Studio 2010\Projects\SecuredAttendance\SecuredAttendance\obj\x86\Debug\SecuredAttendance.Form2.resources
+C:\Users\Sky\Documents\Visual Studio 2010\Projects\SecuredAttendance\SecuredAttendance\obj\x86\Debug\SecuredAttendance.Form3.resources
+C:\Users\Sky\Documents\Visual Studio 2010\Projects\SecuredAttendance\SecuredAttendance\obj\x86\Debug\SecuredAttendance.Resources.resources
+C:\Users\Sky\Documents\Visual Studio 2010\Projects\SecuredAttendance\SecuredAttendance\obj\x86\Debug\SecuredAttendance.webcam.resources
+C:\Users\Sky\Documents\Visual Studio 2010\Projects\SecuredAttendance\SecuredAttendance\obj\x86\Debug\SecuredAttendance.vbproj.GenerateResource.Cache
+C:\Users\Sky\Documents\Visual Studio 2010\Projects\SecuredAttendance\SecuredAttendance\obj\x86\Debug\SecuredAttendance.exe
+C:\Users\Sky\Documents\Visual Studio 2010\Projects\SecuredAttendance\SecuredAttendance\obj\x86\Debug\SecuredAttendance.xml
+C:\Users\Sky\Documents\Visual Studio 2010\Projects\SecuredAttendance\SecuredAttendance\obj\x86\Debug\SecuredAttendance.pdb
+C:\Users\Sky\Documents\Visual Studio 2010\Projects\SecuredAttendance\SecuredAttendance\obj\x86\Debug\SecuredAttendance.vbprojResolveAssemblyReference.cache
+C:\Users\Sky\Documents\SecuredAttendance\SecuredAttendance\bin\Debug\SecuredAttendance.exe
+C:\Users\Sky\Documents\SecuredAttendance\SecuredAttendance\bin\Debug\SecuredAttendance.pdb
+C:\Users\Sky\Documents\SecuredAttendance\SecuredAttendance\bin\Debug\SecuredAttendance.xml
+C:\Users\Sky\Documents\SecuredAttendance\SecuredAttendance\bin\Debug\Interop.GrFingerXLib.dll
+C:\Users\Sky\Documents\SecuredAttendance\SecuredAttendance\bin\Debug\AxInterop.GrFingerXLib.dll
+C:\Users\Sky\Documents\SecuredAttendance\SecuredAttendance\obj\x86\Debug\Interop.GrFingerXLib.dll
+C:\Users\Sky\Documents\SecuredAttendance\SecuredAttendance\obj\x86\Debug\AxInterop.GrFingerXLib.dll
+C:\Users\Sky\Documents\SecuredAttendance\SecuredAttendance\obj\x86\Debug\SecuredAttendance.vbproj.ResolveComReference.cache
+C:\Users\Sky\Documents\SecuredAttendance\SecuredAttendance\obj\x86\Debug\SecuredAttendance.Form1.resources
+C:\Users\Sky\Documents\SecuredAttendance\SecuredAttendance\obj\x86\Debug\SecuredAttendance.Form2.resources
+C:\Users\Sky\Documents\SecuredAttendance\SecuredAttendance\obj\x86\Debug\SecuredAttendance.Form3.resources
+C:\Users\Sky\Documents\SecuredAttendance\SecuredAttendance\obj\x86\Debug\SecuredAttendance.Form4.resources
+C:\Users\Sky\Documents\SecuredAttendance\SecuredAttendance\obj\x86\Debug\SecuredAttendance.Resources.resources
+C:\Users\Sky\Documents\SecuredAttendance\SecuredAttendance\obj\x86\Debug\SecuredAttendance.webcam.resources
+C:\Users\Sky\Documents\SecuredAttendance\SecuredAttendance\obj\x86\Debug\SecuredAttendance.vbproj.GenerateResource.Cache
+C:\Users\Sky\Documents\SecuredAttendance\SecuredAttendance\obj\x86\Debug\SecuredAttendance.exe
+C:\Users\Sky\Documents\SecuredAttendance\SecuredAttendance\obj\x86\Debug\SecuredAttendance.xml
+C:\Users\Sky\Documents\SecuredAttendance\SecuredAttendance\obj\x86\Debug\SecuredAttendance.pdb
+C:\Users\Sky\Documents\projects\SecuredAttendance 2\SecuredAttendance\obj\x86\Debug\Interop.GrFingerXLib.dll
+C:\Users\Sky\Documents\projects\SecuredAttendance 2\SecuredAttendance\obj\x86\Debug\AxInterop.GrFingerXLib.dll
+C:\Users\Sky\Documents\projects\SecuredAttendance 2\SecuredAttendance\obj\x86\Debug\SecuredAttendance.vbproj.ResolveComReference.cache
+C:\Users\Sky\Documents\projects\SecuredAttendance 2\SecuredAttendance\obj\x86\Debug\SecuredAttendance.exe
+C:\Users\Sky\Documents\projects\SecuredAttendance 2\SecuredAttendance\obj\x86\Debug\SecuredAttendance.xml
+C:\Users\Sky\Documents\projects\SecuredAttendance 2\SecuredAttendance\obj\x86\Debug\SecuredAttendance.pdb
+C:\Users\Sky\Documents\projects\SecuredAttendance 2\SecuredAttendance\bin\Debug\SecuredAttendance.exe
+C:\Users\Sky\Documents\projects\SecuredAttendance 2\SecuredAttendance\bin\Debug\SecuredAttendance.pdb
+C:\Users\Sky\Documents\projects\SecuredAttendance 2\SecuredAttendance\bin\Debug\SecuredAttendance.xml
+C:\Users\Sky\Documents\projects\SecuredAttendance 2\SecuredAttendance\bin\Debug\Interop.GrFingerXLib.dll
+C:\Users\Sky\Documents\projects\SecuredAttendance 2\SecuredAttendance\bin\Debug\AxInterop.GrFingerXLib.dll
+C:\Users\Sky\Documents\projects\SecuredAttendance 2\SecuredAttendance\obj\x86\Debug\SecuredAttendance.vbprojResolveAssemblyReference.cache
+C:\Users\Sky\Documents\projects\SecuredAttendance 2\SecuredAttendance\obj\x86\Debug\SecuredAttendance.Form1.resources
+C:\Users\Sky\Documents\projects\SecuredAttendance 2\SecuredAttendance\obj\x86\Debug\SecuredAttendance.Form2.resources
+C:\Users\Sky\Documents\projects\SecuredAttendance 2\SecuredAttendance\obj\x86\Debug\SecuredAttendance.Form3.resources
+C:\Users\Sky\Documents\projects\SecuredAttendance 2\SecuredAttendance\obj\x86\Debug\SecuredAttendance.Form4.resources
+C:\Users\Sky\Documents\projects\SecuredAttendance 2\SecuredAttendance\obj\x86\Debug\SecuredAttendance.Resources.resources
+C:\Users\Sky\Documents\projects\SecuredAttendance 2\SecuredAttendance\obj\x86\Debug\SecuredAttendance.webcam.resources
+C:\Users\Sky\Documents\projects\SecuredAttendance 2\SecuredAttendance\obj\x86\Debug\SecuredAttendance.vbproj.GenerateResource.Cache
+C:\Users\Access_Denied\Documents\Documents\projects\SecuredAttendance 2\SecuredAttendance\obj\x86\Debug\Interop.GrFingerXLib.dll
+C:\Users\Access_Denied\Documents\Documents\projects\SecuredAttendance 2\SecuredAttendance\obj\x86\Debug\AxInterop.GrFingerXLib.dll
+C:\Users\Access_Denied\Documents\Documents\projects\SecuredAttendance 2\SecuredAttendance\obj\x86\Debug\SecuredAttendance.vbproj.ResolveComReference.cache
+C:\Users\Access_Denied\Documents\Documents\projects\SecuredAttendance 2\SecuredAttendance\obj\x86\Debug\SecuredAttendance.exe
+C:\Users\Access_Denied\Documents\Documents\projects\SecuredAttendance 2\SecuredAttendance\obj\x86\Debug\SecuredAttendance.xml
+C:\Users\Access_Denied\Documents\Documents\projects\SecuredAttendance 2\SecuredAttendance\obj\x86\Debug\SecuredAttendance.pdb
+C:\Users\Access_Denied\Documents\Documents\projects\SecuredAttendance 2\SecuredAttendance\bin\Debug\SecuredAttendance.exe
+C:\Users\Access_Denied\Documents\Documents\projects\SecuredAttendance 2\SecuredAttendance\bin\Debug\SecuredAttendance.pdb
+C:\Users\Access_Denied\Documents\Documents\projects\SecuredAttendance 2\SecuredAttendance\bin\Debug\SecuredAttendance.xml
+C:\Users\Access_Denied\Documents\Documents\projects\SecuredAttendance 2\SecuredAttendance\bin\Debug\Interop.GrFingerXLib.dll
+C:\Users\Access_Denied\Documents\Documents\projects\SecuredAttendance 2\SecuredAttendance\bin\Debug\AxInterop.GrFingerXLib.dll
+C:\Users\Access_Denied\Documents\Documents\projects\SecuredAttendance 2\SecuredAttendance\obj\x86\Debug\SecuredAttendance.vbprojResolveAssemblyReference.cache
+C:\Users\Access_Denied\Documents\Documents\projects\SecuredAttendance 2\SecuredAttendance\obj\x86\Debug\SecuredAttendance.Form1.resources
+C:\Users\Access_Denied\Documents\Documents\projects\SecuredAttendance 2\SecuredAttendance\obj\x86\Debug\SecuredAttendance.Form2.resources
+C:\Users\Access_Denied\Documents\Documents\projects\SecuredAttendance 2\SecuredAttendance\obj\x86\Debug\SecuredAttendance.Form3.resources
+C:\Users\Access_Denied\Documents\Documents\projects\SecuredAttendance 2\SecuredAttendance\obj\x86\Debug\SecuredAttendance.Form4.resources
+C:\Users\Access_Denied\Documents\Documents\projects\SecuredAttendance 2\SecuredAttendance\obj\x86\Debug\SecuredAttendance.Resources.resources
+C:\Users\Access_Denied\Documents\Documents\projects\SecuredAttendance 2\SecuredAttendance\obj\x86\Debug\SecuredAttendance.webcam.resources
+C:\Users\Access_Denied\Documents\Documents\projects\SecuredAttendance 2\SecuredAttendance\obj\x86\Debug\SecuredAttendance.vbproj.GenerateResource.Cache
